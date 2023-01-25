@@ -1,28 +1,73 @@
 ---
-title: Documentation
+title: Exploring The Differences Between Data Science And Data Analytics
+
 ---
-Welcome to the Hexo documentation. If you encounter any problems when using Hexo, have a look at the  [troubleshooting guide](troubleshooting.html), raise an issue on [GitHub](https://github.com/hexojs/hexo/issues) or start a topic on the [Google Group](https://groups.google.com/group/hexo).
+Every day, more and more data is produced around the globe. However, the majority of that data is raw and unedited. Ever ponder how the appropriate knowledge gets to us?
 
-## What is Hexo?
+It involves many steps, just like any other procedure. Unprocessed data and information can be processed and analyzed with specific technologies. Data analytics and data science are the two fundamental procedures.
+You will learn more about the parallels and contrasts between these two fields due to this article's in-depth analysis of them.
 
-Hexo is a fast, simple and powerful blog framework. You write posts in [Markdown](http://daringfireball.net/projects/markdown/) (or other markup languages) and Hexo generates static files with a beautiful theme in seconds.
+Data Science Explained: Exploring What Makes It So Valuable and Useful
+Data Science 
+The concept of analyzing data and combining statistics, numbers, and subject expertise is known as data science. Data science is an interdisciplinary field that tries to extract knowledge from unstructured data, and it can be studied as a lucrative career option.
 
-## Installation
+For instance, data science can be used to help organize a data model that is not well structured. It offers a framework to handle massive amounts of data, identify trends, and provide insightful information. In simpler terms, it aids in problem-solving and the discovery of solutions.
 
-It only takes a few minutes to set up Hexo. If you encounter a problem and can't find the solution here, please [submit a GitHub issue](https://github.com/hexojs/hexo/issues) and we'll help.
+Are you looking for a well-paying job? Data science is the best option. If you want a job that will give you a good salary, freedom, and the opportunity to advance, check out Learnbay's Data Science Course in Hyderabad, with job placement.
 
-{% youtube ARted4RniaU %}
+Data Analytics
+Examining, transforming, and cleansing current data are the main goals of data analysis. In order to create structured datasets that can be used for decision-making, this unstructured data is changed.
 
-### Requirements
+Understanding The Distinction Between Data Science and Data Analytics
 
-Installing Hexo is quite easy and only requires the following beforehand:
+Although both the terms are sometimes used interchangeably, the main distinction between them is that data science refers to all methods used to organize massive datasets. In contrast, data analytics is a more narrowly focused method of processing and examining data. Data analysis is comparatively a little less concentrated and broad, whereas data science studies data at a macro level to unearth insights.
 
-- [Node.js](http://nodejs.org/) (Should be at least Node.js 10.13, recommends 12.0 or higher)
-- [Git](http://git-scm.com/)
+Finding answers to particular questions is the focus of data analysis, frequently referred to as extra analysis.
 
-If your computer already has these, congratulations! You can skip to the [Hexo installation](#Install-Hexo) step.
+Data Science:
 
-If not, please follow the following instructions to install all the requirements.
+General Approach
+The intent is to inquire
+Provides information via a multilayered method
+
+Data Analytics
+
+Focused strategy
+Aims to find data that can be used
+Gathers, Purifies, and Transmits data
+
+You can see how it would be simple to mix up the two terms. Additionally, it is now widely acknowledged that the two are inextricably linked. They are connected and represent the two halves of the same coin.
+
+Unlocking The Secrets To A Successful Career In Data Science And Analytics
+The successful utilization of data by an organization is essential to decision-making. But, according to Forrester's research, just 12% of the available data is actually used by businesses. 
+Steps for Starting a Career in Data Science
+A solid foundation in mathematics, computer science, statistics, and programming languages like Python is the best way to start a career in data science. You must be proficient in the following platforms if you want to pursue a career in data science:
+
+Hadoop: If you're a beginner, Hadoop provides training in data exploration or data sampling, which are also applied in research approaches.
+
+Apache Spark: It uses the MapReduce programming approach to manage enormous volumes of data and sampling.
+
+Machine Learning: Most universities offer computer vision and machine learning courses.
+
+Data visualization: Using new technologies like PowerBI, you can further assist in solving business problems by creating a graphical representation of complex data.
+Steps for Starting a Career in Data Analytics
+
+Data analysts are often in great demand, just like data scientists. Data analysts are needed across many businesses, including significant investment banks and private equity firms that research market patterns before investing. Consider enrolling in both a management degree program and a computer science program if you want to pursue a job in data analytics. The study of data analytics is possible at the undergraduate, graduate, and doctoral levels. You must become acquainted with the following skills:
+
+Querying language (SQL)
+Statistical language
+Excel
+Scripting language
+
+Additional Data Science and Data Analytics Skills and knowledge
+Most of us know that data analytics and data science fall under the broad category of scientific professions. However, these roles also include a lot of engagement with other people.
+
+Take the project of teaching software to mimic human skills, for instance. To understand how people interact with software, a skilled data scientist or data analyst will benefit from having a good understanding of human psychology and sociology. You could benefit from taking a quick communication, sociology, or psychology course in addition to math and computing classes.
+
+Summing Up
+This blog covers data science and data analytics for people who are just starting their career transition if they want to learn more about how to become a data professional.
+If you're unfamiliar with the data field, you can benefit from a full-time, fast-tracked Data Analytics Course in Hyderabad to acquire the skills employers want. 
+
 
 ### Install Git
 
